@@ -20,6 +20,7 @@ namespace TestForGitRevert
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show("Hello World!");
+            // Text to lose in the revert.
         }
     }
 }
